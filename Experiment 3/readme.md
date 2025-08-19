@@ -1,4 +1,4 @@
-# 📘 Experiment 03: Department Salary Champions Explorer  
+# 📘 Experiment 03 
 
 **UID:** 23BCS13053  
 **Section/Group:** KRG-2B  
